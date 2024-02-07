@@ -14,13 +14,13 @@
   <tr>
     <td align="center" width="110" height="90">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="36" height="36" alt="javascript" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="javascript" />
       </a>
       <br>javascript
     </td>
     <td align="center" width="110" height="90">
       <a href="#">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="36" height="36" alt="typescript" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="typescript" />
       </a>
       <br>typescript
     </td>
@@ -75,7 +75,7 @@
   <tr>
    <td align="center" width="110" height="90">
       <a href="#">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="36" height="36" alt="React" />
       </a>
       <br>React JS
     </td>
