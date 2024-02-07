@@ -176,9 +176,9 @@
 
 ## Contact
 
-- :robot: &nbsp;**[VK](https://vk.com/lime4512)**
-- :robot: &nbsp;**[Telegram](https://t.me/lime4512)**
-- :robot: &nbsp;**[Discord](https://discord.gg/9UEu3xaa)**
-- :robot: &nbsp;**[Github](https://github.com/lime4512)**
+- &#128172; &nbsp;**[VK](https://vk.com/lime4512)**
+- &#128172; &nbsp;**[Telegram](https://t.me/lime4512)**
+- &#128172; &nbsp;**[Discord](https://discord.gg/9UEu3xaa)**
+- &#128172; &nbsp;**[Github](https://github.com/lime4512)**
 
 <br>
