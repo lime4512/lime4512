@@ -137,7 +137,7 @@
   <tr>
     <td align="center" width="110" height="90"> 
       <a href="#" >
-        <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="36" height="36" alt="Nestjs" />
+        <img src="https://p7.hiclipart.com/preview/545/451/583/node-js-express-js-javascript-solution-stack-web-application-others-thumbnail.jpg" width="36" height="36" alt="Nestjs" />
       </a>
       <br>Express JS
     </td>
@@ -173,3 +173,12 @@
     </td>
   </tr> 
 </table>
+
+## Contact
+
+- :robot: &nbsp;**[VK](https://vk.com/lime4512)**
+- :robot: &nbsp;**[Telegram](https://t.me/lime4512)**
+- :robot: &nbsp;**[Discord](https://discord.gg/9UEu3xaa)**
+- :robot: &nbsp;**[Github](https://github.com/lime4512)**
+
+<br>
