@@ -56,7 +56,7 @@
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#" >
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="36" height="36" alt="github" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="36" height="36" alt="github" />
       </a>
       <br>github
     </td>
