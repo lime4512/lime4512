@@ -13,14 +13,14 @@
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="36" height="36" alt="javascript" />
       </a>
       <br>javascript
     </td>
     <td align="center" width="110" height="90">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="36" height="36" alt="typescript" />
       </a>
       <br>typescript
     </td>
@@ -50,19 +50,13 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
-      </a>
-      <br>yarn
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#">
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
       </a>
       <br>npm
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="36" height="36" alt="github" />
       </a>
       <br>github
     </td>
@@ -106,7 +100,7 @@
   </tr> 
     <td align="center" width="110" height="90"> 
       <a href="#" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="36" height="36" alt="Webpack" />
       </a>
       <br>Webpack
     </td>
@@ -135,12 +129,6 @@
 
 <table width='100%'>
   <tr>
-    <td align="center" width="110" height="90"> 
-      <a href="#" >
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.png" width="36" height="36" alt="Nestjs" />
-      </a>
-      <br>Express JS
-    </td>
     <td align="center" width="110" height="90"> 
       <a href="#" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
