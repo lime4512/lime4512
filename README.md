@@ -170,3 +170,5 @@
 - &#128172; &nbsp;**[Github](https://github.com/lime4512)**
 
 <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lime4512)](https://github.com/anuraghazra/github-readme-stats)
