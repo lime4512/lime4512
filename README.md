@@ -7,7 +7,7 @@
 <br/>
 <div align="center">
 
- 🌱 My portfolio **[PORTFOLIO](https://lime4512.github.io/profile/)*
+ 🌱 My portfolio **[PORTFOLIO](https://lime4512.github.io/profile/)
 
  </div>
 
