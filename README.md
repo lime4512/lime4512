@@ -5,6 +5,11 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 <br/>
+<div align="center">
+
+ 🌱 My portfolio **[PORTFOLIO](https://lime4512.github.io/profile/)*
+
+ </div>
 
 <h2 align="left"> Tech stack</h2>
 
