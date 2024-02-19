@@ -7,8 +7,8 @@
 <br/>
 <div>
 
- 🌱 My portfolio [PORTFOLIO](https://lime4512.github.io/profile/) 
- 🌱 My project [CRYPTO-PROFILE](https://lime4512.github.io/Crypto-Profile/)
+ -🌱 My portfolio [PORTFOLIO](https://lime4512.github.io/profile/) 
+ -🌱 My project [CRYPTO-PROFILE](https://lime4512.github.io/Crypto-Profile/)
  
  </div>
 
