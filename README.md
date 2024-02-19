@@ -7,8 +7,9 @@
 <br/>
 <div align="center">
 
- 🌱 My portfolio [PORTFOLIO](https://lime4512.github.io/profile/)
-
+ 🌱 My portfolio [PORTFOLIO](https://lime4512.github.io/profile/) 
+ 🌱 My project [CRYPTO-PROFILE](https://lime4512.github.io/Crypto-Profile/)
+ 
  </div>
 
 <h2 align="left"> Tech stack</h2>
