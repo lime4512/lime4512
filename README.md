@@ -5,10 +5,11 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 <br/>
-<div>
+<div align="center">
 
- -🌱 My portfolio [PORTFOLIO](https://lime4512.github.io/profile/) 
- -🌱 My project [CRYPTO-PROFILE](https://lime4512.github.io/Crypto-Profile/)
+ 🌱 My portfolio [PORTFOLIO](https://lime4512.github.io/profile/) 
+ 
+ 🌱 My project [CRYPTO-PROFILE](https://lime4512.github.io/Crypto-Profile/)
  
  </div>
 
